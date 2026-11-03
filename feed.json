@@ -6,6 +6,19 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/7b2cks7lz1-kak-vybrat-pr-agentstvo",
+      "url": "https://kontentferma.com/blog/7b2cks7lz1-kak-vybrat-pr-agentstvo",
+      "title": "Как выбрать PR-агентство и не купить красивые отчеты без результата",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Критерии выбора подрядчика:** Как отличить стратегическое PR-агентство от продавцов веерных рассылок и формальных отчетов. > - **Правильная диагностика:** Какие вопросы о бизнесе, рисках и спикерах сильная команда задает на первой встрече. > - **Оценка ке",
+      "date_published": "2026-11-03T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "PR"
+      ]
+    },
+    {
       "id": "https://kontentferma.com/blog/unshfb6un1-pr-strategiya-kompanii",
       "url": "https://kontentferma.com/blog/unshfb6un1-pr-strategiya-kompanii",
       "title": "PR-стратегия компании: из чего состоит и когда нужна",
