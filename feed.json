@@ -6,6 +6,32 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/ecgrn2ni81-vedenie-socsetej-dlya-biznesa",
+      "url": "https://kontentferma.com/blog/ecgrn2ni81-vedenie-socsetej-dlya-biznesa",
+      "title": "Ведение соцсетей для бизнеса: что входит в услугу и какой результат реалистично ждать",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Реальный состав услуги:** 11 процессов, которые входят в профессиональное ведение соцсетей помимо написания текстов. > - **Границы сметы:** Какие работы (таргет, посевы, выездной продакшн) обычно тарифицируются отдельно и почему. > - **Матрица ожиданий:**",
+      "date_published": "2026-11-05T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SMM"
+      ]
+    },
+    {
+      "id": "https://kontentferma.com/blog/xz6e3pidz1-prodvizhenie-lichnogo-brenda-smm-i-pr",
+      "url": "https://kontentferma.com/blog/xz6e3pidz1-prodvizhenie-lichnogo-brenda-smm-i-pr",
+      "title": "Продвижение личного бренда: где заканчивается SMM и начинается PR",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Разделение ролей:** Где заканчиваются возможности личных соцсетей эксперта и начинается территория классического PR. > - **Собственные vs внешние площадки:** Как SMM формирует близость и прогрев, а публикации в СМИ дают внешнюю легитимацию и статус. > - *",
+      "date_published": "2026-11-05T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "PR"
+      ]
+    },
+    {
       "id": "https://kontentferma.com/blog/rfuva28b61-kak-organizovat-publikacii-v-smi",
       "url": "https://kontentferma.com/blog/rfuva28b61-kak-organizovat-publikacii-v-smi",
       "title": "Как организовать публикации в СМИ для компании: процесс, сроки, риски",
