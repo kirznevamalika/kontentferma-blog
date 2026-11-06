@@ -6,6 +6,32 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/23dxtpfst1-vedenie-i-prodvizhenie-socsetej-raznica",
+      "url": "https://kontentferma.com/blog/23dxtpfst1-vedenie-i-prodvizhenie-socsetej-raznica",
+      "title": "Ведение и продвижение соцсетей: почему это две разные работы",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Разделение понятий:** Почему регулярный выпуск постов (ведение) и привлечение новой целевой аудитории (продвижение) — это два разных процесса. > - **Ловушка смешения:** Как компании теряют время, ожидая кратного роста подписчиков и лидов от базового конте",
+      "date_published": "2026-11-06T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SMM"
+      ]
+    },
+    {
+      "id": "https://kontentferma.com/blog/3sy9ep0i11-smm-prodvizhenie-podryadchik-ili-shtat",
+      "url": "https://kontentferma.com/blog/3sy9ep0i11-smm-prodvizhenie-podryadchik-ili-shtat",
+      "title": "SMM-продвижение бизнеса: когда нужен подрядчик, а когда хватит штатного контентщика",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Предел одного специалиста:** Почему попытка закрыть стратегию, тексты, дизайн, Reels и таргет одним штатным сотрудником ведет к выгоранию. > - **Когда выгоднее инхаус:** 7 условий, при которых штатный контент-менеджер станет оптимальным решением для компа",
+      "date_published": "2026-11-06T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SMM"
+      ]
+    },
+    {
       "id": "https://kontentferma.com/blog/ecgrn2ni81-vedenie-socsetej-dlya-biznesa",
       "url": "https://kontentferma.com/blog/ecgrn2ni81-vedenie-socsetej-dlya-biznesa",
       "title": "Ведение соцсетей для бизнеса: что входит в услугу и какой результат реалистично ждать",
