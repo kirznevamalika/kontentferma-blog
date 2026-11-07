@@ -6,6 +6,19 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/b64b3pr961-seo-dlya-biznesa-v-2026-godu",
+      "url": "https://kontentferma.com/blog/b64b3pr961-seo-dlya-biznesa-v-2026-godu",
+      "title": "SEO для бизнеса в 2026 году: почему старые методы не работают и сколько стоит продвижение",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Эволюция поиска:** Почему поисковые системы больше не ранжируют сайты за плотность ключевых слов и закупку ссылок. > - **AI Overviews и интент:** Как адаптировать контент под ответы нейросетей (Яндекс Нейро, Google AI) и забирать трафик в нулевой выдаче.",
+      "date_published": "2026-11-07T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SEO"
+      ]
+    },
+    {
       "id": "https://kontentferma.com/blog/23dxtpfst1-vedenie-i-prodvizhenie-socsetej-raznica",
       "url": "https://kontentferma.com/blog/23dxtpfst1-vedenie-i-prodvizhenie-socsetej-raznica",
       "title": "Ведение и продвижение соцсетей: почему это две разные работы",
