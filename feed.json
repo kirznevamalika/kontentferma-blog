@@ -6,6 +6,19 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/08uayk6sh1-tehnicheskij-seo-audit-sajta-chek-list",
+      "url": "https://kontentferma.com/blog/08uayk6sh1-tehnicheskij-seo-audit-sajta-chek-list",
+      "title": "Технический SEO-аудит сайта: чек-лист из 25 пунктов, которые мешают индексации",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Фундамент видимости:** Почему даже идеальный контент не попадет в ТОП при технических ошибках в индексации и коде. > - **Краулинговый бюджет:** Как распределить ресурсы поисковых роботов на действительно важные коммерческие страницы. > - **Скорость и Core",
+      "date_published": "2026-11-07T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SEO"
+      ]
+    },
+    {
       "id": "https://kontentferma.com/blog/b64b3pr961-seo-dlya-biznesa-v-2026-godu",
       "url": "https://kontentferma.com/blog/b64b3pr961-seo-dlya-biznesa-v-2026-godu",
       "title": "SEO для бизнеса в 2026 году: почему старые методы не работают и сколько стоит продвижение",
