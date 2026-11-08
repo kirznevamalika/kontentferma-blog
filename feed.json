@@ -6,6 +6,19 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/x84fyn4f11-targetirovannaya-reklama-dlya-biznesa",
+      "url": "https://kontentferma.com/blog/x84fyn4f11-targetirovannaya-reklama-dlya-biznesa",
+      "title": "Таргетированная реклама: как настроить поток лидов в B2B и B2C",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Новая реальность таргета:** Как привлекать платежеспособную аудиторию в условиях ограничений пикселей и клипового мышления. > - **Reels как вход в воронку:** Формула 3-секундного хука и драматургия рекламных вертикальных роликов, которые не пролистывают.",
+      "date_published": "2026-11-08T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Performance"
+      ]
+    },
+    {
       "id": "https://kontentferma.com/blog/oohzx4mth1-kontekstnaya-reklama-yandex-direct-oshibki",
       "url": "https://kontentferma.com/blog/oohzx4mth1-kontekstnaya-reklama-yandex-direct-oshibki",
       "title": "Контекстная реклама в Яндекс Директ: как не слить бюджет в первый месяц",
