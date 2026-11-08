@@ -6,6 +6,19 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/oohzx4mth1-kontekstnaya-reklama-yandex-direct-oshibki",
+      "url": "https://kontentferma.com/blog/oohzx4mth1-kontekstnaya-reklama-yandex-direct-oshibki",
+      "title": "Контекстная реклама в Яндекс Директ: как не слить бюджет в первый месяц",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Анатомия слива:** Почему бюджет сгорает за первые часы после пополнения счета, а отдел продаж не получает ни одной целевой заявки. > - **Автотаргетинг и РСЯ:** Как некорректные настройки автоматических алгоритмов приводят клик-ботов и спам вместо клиентов",
+      "date_published": "2026-11-08T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Performance"
+      ]
+    },
+    {
       "id": "https://kontentferma.com/blog/08uayk6sh1-tehnicheskij-seo-audit-sajta-chek-list",
       "url": "https://kontentferma.com/blog/08uayk6sh1-tehnicheskij-seo-audit-sajta-chek-list",
       "title": "Технический SEO-аудит сайта: чек-лист из 25 пунктов, которые мешают индексации",
