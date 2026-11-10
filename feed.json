@@ -6,6 +6,20 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/3v3ivoa0l1-bot-fermy-i-multiakkauntnaya-distribuciya",
+      "url": "https://kontentferma.com/blog/3v3ivoa0l1-bot-fermy-i-multiakkauntnaya-distribuciya",
+      "title": "Бот-фермы и мультиаккаунтная дистрибуция контента: белые и серые сценарии для бизнеса",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Анатомия дистрибуции:** Почему создание исходного контента — это лишь первый шаг, а итоговый охват определяет плотность посевов и каналов распространения. > - **Белые vs Серые методы:** Разница между спам-сетками, ведущими в бан, и легитимной сетью темати",
+      "date_published": "2026-11-10T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Бизнес"
+      ],
+      "image": "https://static.tildacdn.com/tila3437-6339-4762-b566-343865353236/cover_24_bot-fermy-i.png"
+    },
+    {
       "id": "https://kontentferma.com/blog/i051bo8g31-sistemnyj-videoprodakshn-dlya-biznesa",
       "url": "https://kontentferma.com/blog/i051bo8g31-sistemnyj-videoprodakshn-dlya-biznesa",
       "title": "Системный видеопродакшн для бизнеса: как производить Reels, Shorts и YouTube без хаоса",
