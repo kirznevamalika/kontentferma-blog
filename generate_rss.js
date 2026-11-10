@@ -11,6 +11,37 @@ const FEED_DESC = 'Практические кейсы, статьи и руко
 const FEED_LANG = 'ru-RU';
 
 const queueFile = path.join(__dirname, 'queue.json');
+const imageCdnMapFile = path.join(__dirname, 'image_cdn_map.json');
+
+const imageCdnMap = fs.existsSync(imageCdnMapFile)
+  ? JSON.parse(fs.readFileSync(imageCdnMapFile, 'utf8'))
+  : {};
+
+function xmlEscape(value) {
+  return String(value)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
+function coverImageFor(item, body) {
+  // Articles use the numbered source cover name in image_cdn_map.json.
+  if (item.type !== 'CASE' && item.articleId) {
+    const key = `cover_${String(item.articleId).padStart(2, '0')}_${item.slug}.png`;
+    if (imageCdnMap[key]) return imageCdnMap[key];
+  }
+
+  // Cases (and any future article without a numbered mapping) use their first
+  // Markdown image, which is the cover in the source files.
+  const firstImage = body.match(/^!\[[^\]]*\]\(([^)]+)\)/m);
+  if (!firstImage) return '';
+
+  const source = firstImage[1];
+  if (/^https?:\/\//i.test(source)) return source;
+  return imageCdnMap[source] || imageCdnMap[path.basename(source)] || '';
+}
 
 function parseMarkdownFrontmatter(content) {
   const fmMatch = content.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
@@ -78,12 +109,14 @@ function generateRss() {
 
     let descr = '';
     let author = 'Редакция Контент Фермы';
+    let body = '';
 
     for (const f of candidateFiles) {
       if (fs.existsSync(f)) {
         const raw = fs.readFileSync(f, 'utf8');
         const parsed = parseMarkdownFrontmatter(raw);
         descr = parsed.descr;
+        body = parsed.body;
         if (parsed.frontmatter.author) author = parsed.frontmatter.author;
         break;
       }
@@ -91,6 +124,10 @@ function generateRss() {
 
     const pubDateStr = new Date(item.scheduledIso || item.publishedAt).toUTCString();
     const liveUrl = item.liveUrl || `${SITE_URL}${isCase ? '/cases/' : '/blog/'}${item.postuid}-${item.slug}`;
+    const coverImage = coverImageFor(item, body);
+    const coverXml = coverImage
+      ? `\n      <enclosure url="${xmlEscape(coverImage)}" length="0" type="image/png"/>\n      <media:content url="${xmlEscape(coverImage)}" medium="image"/>\n      <media:thumbnail url="${xmlEscape(coverImage)}"/>`
+      : '';
 
     feedItems.push(`    <item>
       <title><![CDATA[${item.title}]]></title>
@@ -99,7 +136,7 @@ function generateRss() {
       <description><![CDATA[${descr}]]></description>
       <pubDate>${pubDateStr}</pubDate>
       <author>${author}</author>
-      <category>${item.partitionName || (isCase ? 'Кейсы' : 'Маркетинг')}</category>
+      <category>${item.partitionName || (isCase ? 'Кейсы' : 'Маркетинг')}</category>${coverXml}
     </item>`);
 
     jsonFeedItems.push({
@@ -109,13 +146,14 @@ function generateRss() {
       summary: descr,
       date_published: new Date(item.scheduledIso || item.publishedAt).toISOString(),
       author: { name: author },
-      tags: [item.partitionName || (isCase ? 'Кейсы' : 'Маркетинг')]
+      tags: [item.partitionName || (isCase ? 'Кейсы' : 'Маркетинг')],
+      ...(coverImage ? { image: coverImage } : {})
     });
   }
 
   const buildDate = now.toUTCString();
   const rssXml = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>${FEED_TITLE}</title>
     <link>${SITE_URL}/blog</link>

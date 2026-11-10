@@ -6,6 +6,62 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/i051bo8g31-sistemnyj-videoprodakshn-dlya-biznesa",
+      "url": "https://kontentferma.com/blog/i051bo8g31-sistemnyj-videoprodakshn-dlya-biznesa",
+      "title": "Системный видеопродакшн для бизнеса: как производить Reels, Shorts и YouTube без хаоса",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Экономика вертикального видео:** Почему ежедневные съемки на телефон убивают время эксперта и как перейти на конвейерный батч-продакшн. > - **Драматургия первых 2 секунд:** Анатомия цепляющих хуков: визуальные триггеры, провокационные тезисы и динамически",
+      "date_published": "2026-11-10T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Бизнес"
+      ],
+      "image": "https://static.tildacdn.com/tila3337-6636-4837-b839-383264356535/cover_23_sistemnyj-v.png"
+    },
+    {
+      "id": "https://kontentferma.com/blog/jdyeu7tj01-business-boost-camp-perezapusk-marketinga",
+      "url": "https://kontentferma.com/blog/jdyeu7tj01-business-boost-camp-perezapusk-marketinga",
+      "title": "Business Boost Camp: как за 90 дней перестроить маркетинг и продажи компании",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Кризис подрядчиков:** Почему наем отдельных специалистов (дизайнер, таргетолог, копирайтер) не дает системного роста. > - **Методология спринтов:** Как перестроить позиционирование, упаковку и воронку компании за 4 недели интенсивной работы. > - **Командн",
+      "date_published": "2026-11-09T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Стратегия"
+      ],
+      "image": "https://static.tildacdn.com/tila3937-3963-4634-a231-353937313838/cover_22_business-bo.png"
+    },
+    {
+      "id": "https://kontentferma.com/cases/h45bxjcsb1-gogen-restaurant-moscow",
+      "url": "https://kontentferma.com/cases/h45bxjcsb1-gogen-restaurant-moscow",
+      "title": "Кейс Ресторан «Гоген»: комплексный запуск и посадка заведения в Москве",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Клиент:** Ресторан «Гоген» > - **Индустрия:** HoReCa / Общественное питание > - **Главный фокус:** Комплексный перевод хаотичных коммуникаций в управляемую систему продаж.",
+      "date_published": "2026-11-09T12:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Кейсы"
+      ],
+      "image": "https://static.tildacdn.com/tila6235-6533-4139-a336-353036363536/gogen-restaurant-mos.png"
+    },
+    {
+      "id": "https://kontentferma.com/blog/ngjspiugo1-marketingovyj-audit-uzkie-mesta-voronki",
+      "url": "https://kontentferma.com/blog/ngjspiugo1-marketingovyj-audit-uzkie-mesta-voronki",
+      "title": "Маркетинговый аудит: как найти узкие места в воронке до найма новых подрядчиков",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Разрыв связки:** Почему трафик есть, заявки поступают, а выручка компании не растет. > - **Карта пути клиента (CJM):** Пошаговый поиск этапов, на которых отваливается больше всего потенциальных покупателей. > - **Квалификация лидов:** Как отделить реальны",
+      "date_published": "2026-11-09T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Стратегия"
+      ],
+      "image": "https://static.tildacdn.com/tila6264-6636-4930-b136-626333373230/cover_21_marketingov.png"
+    },
+    {
       "id": "https://kontentferma.com/blog/x84fyn4f11-targetirovannaya-reklama-dlya-biznesa",
       "url": "https://kontentferma.com/blog/x84fyn4f11-targetirovannaya-reklama-dlya-biznesa",
       "title": "Таргетированная реклама: как настроить поток лидов в B2B и B2C",
@@ -16,7 +72,8 @@
       },
       "tags": [
         "Performance"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila6637-3864-4066-a663-646634383934/cover_20_targetirova.png"
     },
     {
       "id": "https://kontentferma.com/blog/oohzx4mth1-kontekstnaya-reklama-yandex-direct-oshibki",
@@ -29,7 +86,8 @@
       },
       "tags": [
         "Performance"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3837-3734-4338-b434-623639363864/cover_19_kontekstnay.png"
     },
     {
       "id": "https://kontentferma.com/blog/08uayk6sh1-tehnicheskij-seo-audit-sajta-chek-list",
@@ -42,7 +100,8 @@
       },
       "tags": [
         "SEO"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila6631-3730-4638-a661-613330643162/cover_18_tehnicheski.png"
     },
     {
       "id": "https://kontentferma.com/blog/b64b3pr961-seo-dlya-biznesa-v-2026-godu",
@@ -55,7 +114,8 @@
       },
       "tags": [
         "SEO"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3738-6130-4235-b933-336566316532/cover_17_seo-dlya-bi.png"
     },
     {
       "id": "https://kontentferma.com/blog/23dxtpfst1-vedenie-i-prodvizhenie-socsetej-raznica",
@@ -68,7 +128,8 @@
       },
       "tags": [
         "SMM"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3932-6138-4634-a630-323433363063/cover_16_vedenie-i-p.png"
     },
     {
       "id": "https://kontentferma.com/blog/3sy9ep0i11-smm-prodvizhenie-podryadchik-ili-shtat",
@@ -81,7 +142,8 @@
       },
       "tags": [
         "SMM"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila6665-3765-4331-a435-616565643234/cover_15_smm-prodviz.png"
     },
     {
       "id": "https://kontentferma.com/blog/ecgrn2ni81-vedenie-socsetej-dlya-biznesa",
@@ -94,7 +156,8 @@
       },
       "tags": [
         "SMM"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3366-3264-4339-b831-643034373933/cover_14_vedenie-soc.png"
     },
     {
       "id": "https://kontentferma.com/blog/xz6e3pidz1-prodvizhenie-lichnogo-brenda-smm-i-pr",
@@ -107,7 +170,8 @@
       },
       "tags": [
         "PR"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3438-3532-4532-b563-613563316365/cover_13_prodvizheni.png"
     },
     {
       "id": "https://kontentferma.com/blog/rfuva28b61-kak-organizovat-publikacii-v-smi",
@@ -120,7 +184,8 @@
       },
       "tags": [
         "PR"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3337-6165-4933-b138-303865633032/cover_12_kak-organiz.png"
     },
     {
       "id": "https://kontentferma.com/cases/zpxc01h4a1-artur-cheh-art-lectures",
@@ -133,7 +198,8 @@
       },
       "tags": [
         "Кейсы"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila6338-6134-4462-a231-623961353732/artur-cheh-art-lectu.png"
     },
     {
       "id": "https://kontentferma.com/blog/ui00pdxog1-razmeshchenie-v-smi-nativka-reklama-redakciya",
@@ -146,7 +212,8 @@
       },
       "tags": [
         "PR"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3261-3339-4432-b438-666130613337/cover_11_razmeshchen.png"
     },
     {
       "id": "https://kontentferma.com/blog/7b2cks7lz1-kak-vybrat-pr-agentstvo",
@@ -159,7 +226,8 @@
       },
       "tags": [
         "PR"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3061-3535-4437-b734-346439373730/cover_10_kak-vybrat-.png"
     },
     {
       "id": "https://kontentferma.com/blog/unshfb6un1-pr-strategiya-kompanii",
@@ -172,7 +240,8 @@
       },
       "tags": [
         "PR"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3734-3764-4562-a435-633230623762/cover_09_pr-strategi.png"
     },
     {
       "id": "https://kontentferma.com/blog/mcs82s1h01-kogda-biznesu-ne-nuzhen-smm",
@@ -185,7 +254,8 @@
       },
       "tags": [
         "Бизнес"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3566-6161-4838-a535-303066643739/cover_08_kogda-bizne.png"
     },
     {
       "id": "https://kontentferma.com/blog/cg7mgx8051-kak-podgotovitsya-k-marketingovomu-auditu",
@@ -198,7 +268,8 @@
       },
       "tags": [
         "Стратегия"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila6163-3239-4665-b865-386266636632/cover_07_kak-podgoto.png"
     },
     {
       "id": "https://kontentferma.com/blog/mf5fgixcf1-avtomatizaciya-kontenta-chto-peredat-ii",
@@ -211,7 +282,8 @@
       },
       "tags": [
         "Бизнес"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3464-6137-4463-b333-663262373365/cover_06_avtomatizac.png"
     },
     {
       "id": "https://kontentferma.com/blog/nlk410u371-ii-kontent-ferma-i-kontent-zavod",
@@ -224,7 +296,8 @@
       },
       "tags": [
         "Бизнес"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3762-6337-4232-a133-333864356365/cover_05_ii-kontent-.png"
     },
     {
       "id": "https://kontentferma.com/blog/053sy88yz1-problema-ne-v-reklame-a-v-prodazhah",
@@ -237,7 +310,8 @@
       },
       "tags": [
         "Стратегия"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila6364-3239-4437-b361-643864376362/cover_04_problema-ne.png"
     },
     {
       "id": "https://kontentferma.com/cases/xb8nc16a61-dr-esipova-dubai-cosmetology",
@@ -250,7 +324,8 @@
       },
       "tags": [
         "Кейсы"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3035-3966-4063-b663-393033643737/dr-esipova-dubai-cos.png"
     },
     {
       "id": "https://kontentferma.com/blog/b32vyz41s1-chto-vhodit-v-smm-50-100-300-tysyach",
@@ -263,7 +338,8 @@
       },
       "tags": [
         "SMM"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3834-6234-4363-b238-303163613932/cover_03_chto-vhodit.png"
     },
     {
       "id": "https://kontentferma.com/blog/97t7uha8j1-kak-vybrat-smm-agentstvo",
@@ -276,7 +352,8 @@
       },
       "tags": [
         "SMM"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila6665-3336-4661-b765-353331643138/cover_02_kak-vybrat-.png"
     },
     {
       "id": "https://kontentferma.com/blog/3rudxja8h1-skolko-stoit-smm-2026",
@@ -289,7 +366,8 @@
       },
       "tags": [
         "SMM"
-      ]
+      ],
+      "image": "https://static.tildacdn.com/tila3838-6639-4635-a136-386634373365/cover_01_skolko-stoi.png"
     }
   ]
 }
