@@ -6,6 +6,48 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/dy6hz0hru1-prodvizhenie-vo-vkontakte-dlya-biznesa",
+      "url": "https://kontentferma.com/blog/dy6hz0hru1-prodvizhenie-vo-vkontakte-dlya-biznesa",
+      "title": "Продвижение во ВКонтакте: как настроить контент и таргет для бизнеса",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Специфика экосистемы VK:** Особенности аудитории, алгоритмической ленты и почему стратегии из запрещенных соцсетей здесь не работают. > - **Сообщество как посадочная страница:** Оформление обложки, меню, виджетов, сюжетных линий и каталога товаров/услуг.",
+      "date_published": "2026-11-11T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SMM"
+      ],
+      "image": "https://static.tildacdn.com/tila6439-3634-4138-a333-383965613234/cover_26_prodvizheni.png"
+    },
+    {
+      "id": "https://kontentferma.com/cases/gzjxbbkpy1-metropolitan-properties-dubai",
+      "url": "https://kontentferma.com/cases/gzjxbbkpy1-metropolitan-properties-dubai",
+      "title": "Кейс Metropolitan: таргетированная реклама люксовой недвижимости в Дубае",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Клиент:** Metropolitan Premium Properties > - **Индустрия:** Недвижимость / Элитный сегмент > - **Главный фокус:** Комплексный перевод хаотичных коммуникаций в управляемую систему продаж.",
+      "date_published": "2026-11-11T12:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Кейсы"
+      ],
+      "image": "https://static.tildacdn.com/tila6363-3966-4335-a233-326534363130/metropolitan-propert.png"
+    },
+    {
+      "id": "https://kontentferma.com/blog/g5svuac9m1-smm-v-telegram-dlya-biznesa",
+      "url": "https://kontentferma.com/blog/g5svuac9m1-smm-v-telegram-dlya-biznesa",
+      "title": "SMM в Telegram для бизнеса: стратегия канала, посевы и воронка продаж",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Экосистема мессенджера:** Почему Telegram стал главной деловой и медийной платформой в СНГ с самым высоким чеком сделок. > - **Посевы vs Telegram Ads:** Как выбрать между официальной таргетированной рекламой и прямыми закупками у администраторов каналов.",
+      "date_published": "2026-11-11T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SMM"
+      ],
+      "image": "https://static.tildacdn.com/tila6361-3532-4936-b062-613166643566/cover_25_smm-v-teleg.png"
+    },
+    {
       "id": "https://kontentferma.com/blog/3v3ivoa0l1-bot-fermy-i-multiakkauntnaya-distribuciya",
       "url": "https://kontentferma.com/blog/3v3ivoa0l1-bot-fermy-i-multiakkauntnaya-distribuciya",
       "title": "Бот-фермы и мультиаккаунтная дистрибуция контента: белые и серые сценарии для бизнеса",
