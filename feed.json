@@ -6,6 +6,34 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/poozajby71-upravlenie-reputaciej-v-internete-serm",
+      "url": "https://kontentferma.com/blog/poozajby71-upravlenie-reputaciej-v-internete-serm",
+      "title": "Управление репутацией в интернете (SERM): как защитить бренд и вытеснить негатив",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Витальная выдача:** Что видят потенциальные клиенты, когда вбивают в поисковик «[Ваша компания] отзывы» перед подписанием договора. > - **Анатомия хейта и черного PR:** Как отличить реальную претензию клиента от заказной атаки конкурентов и как правильно",
+      "date_published": "2026-11-12T15:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "PR"
+      ],
+      "image": "https://static.tildacdn.com/tila3530-3235-4635-a462-373366353132/cover_28_upravlenie-.png"
+    },
+    {
+      "id": "https://kontentferma.com/blog/0kfoensnf1-prodvizhenie-na-youtube-dlya-biznesa",
+      "url": "https://kontentferma.com/blog/0kfoensnf1-prodvizhenie-na-youtube-dlya-biznesa",
+      "title": "Продвижение экспертов и бизнеса на YouTube: стратегия канала и алгоритмы удержания",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Вторая поисковая система мира:** Почему YouTube является лучшим инструментом для формирования железобетонного доверия в сложных нишах. > - **Анатомия удержания (AVD):** Как выстроить сценарий длинного видео, чтобы зрители досматривали его до конца и алгор",
+      "date_published": "2026-11-12T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "SMM"
+      ],
+      "image": "https://static.tildacdn.com/tila6133-3634-4830-b837-373932623935/cover_27_prodvizheni.png"
+    },
+    {
       "id": "https://kontentferma.com/blog/dy6hz0hru1-prodvizhenie-vo-vkontakte-dlya-biznesa",
       "url": "https://kontentferma.com/blog/dy6hz0hru1-prodvizhenie-vo-vkontakte-dlya-biznesa",
       "title": "Продвижение во ВКонтакте: как настроить контент и таргет для бизнеса",
