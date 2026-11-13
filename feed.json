@@ -6,6 +6,20 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/vuv54fs9u1-infopovody-dlya-smi-kak-sostavit-novost",
+      "url": "https://kontentferma.com/blog/vuv54fs9u1-infopovody-dlya-smi-kak-sostavit-novost",
+      "title": "Инфоповод для СМИ: как составить новость, которую опубликуют деловые медиа",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Мышление редактора:** Почему релиз «Мы открыли новый склад» летит в корзину через 3 секунды, а аналитика рынка попадает на главную РБК. > - **Формула идеального инфоповода:** Связка трех компонентов: федеральный тренд + реальные цифры компании + экспертны",
+      "date_published": "2026-11-13T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "PR"
+      ],
+      "image": "https://static.tildacdn.com/tila3036-3137-4534-b530-613161373931/cover_29_infopovody-.png"
+    },
+    {
       "id": "https://kontentferma.com/blog/poozajby71-upravlenie-reputaciej-v-internete-serm",
       "url": "https://kontentferma.com/blog/poozajby71-upravlenie-reputaciej-v-internete-serm",
       "title": "Управление репутацией в интернете (SERM): как защитить бренд и вытеснить негатив",
