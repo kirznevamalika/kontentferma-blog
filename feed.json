@@ -6,6 +6,20 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/blog/7lllmyo361-press-relizy-dlya-smi-pravila-i-oshibki",
+      "url": "https://kontentferma.com/blog/7lllmyo361-press-relizy-dlya-smi-pravila-i-oshibki",
+      "title": "Пресс-релизы, которые читают: структура, частые ошибки и правила рассылки",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Принцип перевернутой пирамиды:** Как оформить структуру релиза так, чтобы журналист понял главную суть за первые 5 секунд. > - **Заголовок без канцелярита:** Формулы создания броских заголовков, которые пробивают баннерную слепоту редакторов. > - **Живая",
+      "date_published": "2026-11-14T08:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "PR"
+      ],
+      "image": "https://static.tildacdn.com/tila3462-6130-4235-b836-636534643639/cover_30_press-reliz.png"
+    },
+    {
       "id": "https://kontentferma.com/blog/vuv54fs9u1-infopovody-dlya-smi-kak-sostavit-novost",
       "url": "https://kontentferma.com/blog/vuv54fs9u1-infopovody-dlya-smi-kak-sostavit-novost",
       "title": "Инфоповод для СМИ: как составить новость, которую опубликуют деловые медиа",
