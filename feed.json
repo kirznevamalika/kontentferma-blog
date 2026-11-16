@@ -6,6 +6,20 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/cases/u5gzbaftx1-una-moliya-fintech",
+      "url": "https://kontentferma.com/cases/u5gzbaftx1-una-moliya-fintech",
+      "title": "Кейс Una Moliya: посевы в Telegram-чатах и креативы для микрофинансов",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Клиент:** Una Moliya > - **Индустрия:** Финтех / Микрофинансовая организация > - **Главный фокус:** Комплексный перевод хаотичных коммуникаций в управляемую систему продаж.",
+      "date_published": "2026-11-16T12:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Кейсы"
+      ],
+      "image": "https://static.tildacdn.com/tila6335-3632-4133-b536-326566656531/una-moliya-fintech_c.png"
+    },
+    {
       "id": "https://kontentferma.com/blog/7lllmyo361-press-relizy-dlya-smi-pravila-i-oshibki",
       "url": "https://kontentferma.com/blog/7lllmyo361-press-relizy-dlya-smi-pravila-i-oshibki",
       "title": "Пресс-релизы, которые читают: структура, частые ошибки и правила рассылки",
