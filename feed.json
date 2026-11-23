@@ -6,6 +6,20 @@
   "description": "Практические кейсы, статьи и руководства по контент-маркетингу, SMM, SEO и автоматизации контента от Контент Фермы.",
   "items": [
     {
+      "id": "https://kontentferma.com/cases/bj93grnza1-bsd-kz-legal-consulting",
+      "url": "https://kontentferma.com/cases/bj93grnza1-bsd-kz-legal-consulting",
+      "title": "Кейс BSD.kz: вывод юридической компании в лидеры рынка Казахстана за 1 месяц",
+      "summary": "> **Кратко о главном в этом разборе:** > - **Клиент:** BSD.kz > - **Индустрия:** Юридический консалтинг / Ликвидация ИП и ТОО > - **Главный фокус:** Комплексный перевод хаотичных коммуникаций в управляемую систему продаж.",
+      "date_published": "2026-11-23T12:00:00.000Z",
+      "author": {
+        "name": "Редакция Контент Фермы"
+      },
+      "tags": [
+        "Кейсы"
+      ],
+      "image": "https://static.tildacdn.com/tila3532-6339-4239-a464-383165313364/bsd-kz-legal-consult.png"
+    },
+    {
       "id": "https://kontentferma.com/cases/z4tip9zdj1-yulia-pilates-fitness",
       "url": "https://kontentferma.com/cases/z4tip9zdj1-yulia-pilates-fitness",
       "title": "Кейс Юля: оживление фитнес-аккаунта после гива, Reels-воронка и рост чека",
